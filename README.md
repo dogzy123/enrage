@@ -3,4 +3,4 @@
 Izmantotās tehnoloģijas: HTML5, CSS3, Bootstrap 3, PHP 7, phpMyAdmin, JavaScript. <br />
 Tēma: Kibersportisks portals. <br />
 Instrukcija:
- * ieiet mājas lapā http://enrage.esy.es/
+ * ieiet mājas lapā http://enrage.esy.es/ (RVT timekla nez kapec nestrada)
